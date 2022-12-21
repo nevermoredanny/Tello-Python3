@@ -59,8 +59,9 @@ In order to facilitate you to install python3.9 and various dependencies, we hav
     ```
 
 - **Step3**. A UI will show up, you can now:
-![image](https://user-images.githubusercontent.com/8606090/208831709-3dd6023e-b7dc-4e07-b505-635580cc11b3.png)
-![image](https://user-images.githubusercontent.com/8606090/208831776-35b22dbc-ccd5-4b05-884a-b10a4681a593.png)
+ 
+ ![image](https://user-images.githubusercontent.com/8606090/208831709-3dd6023e-b7dc-4e07-b505-635580cc11b3.png)
+ ![image](https://user-images.githubusercontent.com/8606090/208831776-35b22dbc-ccd5-4b05-884a-b10a4681a593.png)
     - Watch live video stream from the Tello camera;
     - Take snapshot and save jpg to local folder;
     - Open Command Panel, which allows you to:
