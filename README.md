@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a collection of python-based sample code that interact with the Ryze Tello drone.
+This repository is forked from https://github.com/dji-sdk/Tello-Python and based on python3.This is a collection of python-based sample code that interact with the Ryze Tello drone.
 
 ## Project Description
 
