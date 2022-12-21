@@ -2,19 +2,18 @@
 
 This is an example using the Tello SDK v1.3.0.0 and above to receive video stream from Tello camera,decode the video stream and show the image by GUI.
 
- - Written in Python 2.7
+ - Written in Python 3.9
  - Tello SDK v1.3.0.0 and above(with h.264 video streaming)
  - This example includes a simple UI build with Tkinter to interact with Tello
  - Interactive control of Tello based on human movement is achieved via body pose recognition module.
 
 ## Prerequisites
 
-- Python2.7
+- Python3.9
 - pip
 - Python OpenCV
 - Numpy 
 - PIL
-- libboost-python
 - Tkinter
 - homebrew(for mac)
 - Python h264 decoder
@@ -22,7 +21,7 @@ This is an example using the Tello SDK v1.3.0.0 and above to receive video strea
 
 ## Installation
 
-In order to facilitate you to install python2.7 and various dependencies, we have written a one-click installation script for windows, Linux and macos. You can choose to run this script for the one-click installation, or you can download python2.7 and related libraries and dependencies online. If you have questions about the actions that the script performs, you can open the script with an editor and look up the comments for each instruction in the script. In addition, we have additionally written an uninstall script that cleans and restores all downloaded and configured content from the one-click installation script.
+In order to facilitate you to install python3.9 and various dependencies, we have written a one-click installation script for windows, Linux and macos. You can choose to run this script for the one-click installation, or you can download python3.9 and related libraries and dependencies online. If you have questions about the actions that the script performs, you can open the script with an editor and look up the comments for each instruction in the script. In addition, we have additionally written an uninstall script that cleans and restores all downloaded and configured content from the one-click installation script.
 
 - **Windows**
 
@@ -60,7 +59,8 @@ In order to facilitate you to install python2.7 and various dependencies, we hav
     ```
 
 - **Step3**. A UI will show up, you can now:
-
+![image](https://user-images.githubusercontent.com/8606090/208831709-3dd6023e-b7dc-4e07-b505-635580cc11b3.png)
+![image](https://user-images.githubusercontent.com/8606090/208831776-35b22dbc-ccd5-4b05-884a-b10a4681a593.png)
     - Watch live video stream from the Tello camera;
     - Take snapshot and save jpg to local folder;
     - Open Command Panel, which allows you to:
